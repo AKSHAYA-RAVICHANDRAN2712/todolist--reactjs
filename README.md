@@ -19,6 +19,26 @@ Step 2: Create the App Component
 Step 3: Json file (for necessary packages -for importing them) 
 
 
+Output: 
+
+Initially it visibles like this
+
+![image](https://github.com/AKSHAYA-RAVICHANDRAN2712/todolist--reactjs/assets/129597270/bd6a0da2-e90c-4f1a-b6de-e703f4f29ea5)
+
+If we completed our task then by clicking once...it gets striked out!! ( which indicates task is completed)
+
+
+This image tells about the task which is mentioned/assigned but not yet completed
+![image](https://github.com/AKSHAYA-RAVICHANDRAN2712/todolist--reactjs/assets/129597270/ad7403f8-5d0f-47a2-b914-9175536e9b65)
+
+
+This image tells that only few tasks are completed ( which can be applied by click on the task - it gets strikes out)
+![image](https://github.com/AKSHAYA-RAVICHANDRAN2712/todolist--reactjs/assets/129597270/271d1c70-8c3b-4a94-827e-998f8ba237b6)
+
+
+This image tells every tasks is completed successfully without any pending
+![image](https://github.com/AKSHAYA-RAVICHANDRAN2712/todolist--reactjs/assets/129597270/ec5b54b4-2c38-47e1-8bb7-81e41a061a1f)
+
 
 *This is just an simple and small todolist app using reactjs for Begineers *
 We can further build our project with Todolistform, Todolist components separately and build up a new and big working project 
